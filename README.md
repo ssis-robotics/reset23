@@ -10,7 +10,7 @@ After updating the Radiomaster T16S from EdgeTX 2.6.0 to 2.8.3 some final config
 
 Now we have the base for a repurposed leather armchair we try to borrow:
 
-<img src="docs/base20230519.jpg" width="49%"> <img src="docs/armchair.jpg" width="49%"> 
+<img src="docs/base20230519.jpg" width="56%"> <img src="docs/armchair.jpg" width="42%"> 
 
 It is solid enough to hold a chair, and the remote works. In high speed mode it's really fun on the plaza!
 
