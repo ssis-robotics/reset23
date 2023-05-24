@@ -33,3 +33,5 @@ The cheap RC controller runs on 5 Volt (from an ESC with 7.4V LiPo battery, driv
 ### 2022/12/04 Spark idea at visit to TAS in Taipei
 
 The Taipei American School has a great robotics program, now in their Techcube on 5 floors. On the 4th floor is a couch that can be driven with a RC remote. Students love this idea! A girl in 2nd grade saw this and decided "I want to become an engineer". Following through with Lego robotics, VEX IQ, VEX V5 and FRC robotics competition she progressed towards that goal. Let's inspire more students!
+
+![driving couch](docs/2022-12-03_inspiration.jpg)
