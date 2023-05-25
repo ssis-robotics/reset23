@@ -10,7 +10,7 @@ This project was a huge success. Many people wanted to take a ride on the chair,
 
 So much that the two CIM motors actually overheated 🥵 and reduced their power. We had to make a break to let them cool a little:
 
-![base and chair separated](docs/2025-05-25_separated.jpg)
+![base and chair separated](docs/2023-05-25_separated.jpg)
 
 ## Building timeline
 
@@ -20,6 +20,11 @@ The final paint was put on the robot in the morning, and a few minutes into the 
 
 <img src="docs/2023-05-25_black-box.jpg" width="49%"> <img src="docs/2023-05-25_complete.jpg" width="49%">
 
+### 2023/05/24 Easily removable baseplate
+
+In order to get to the battery the top part had to be designed easily removable. At the same time the base plate should be solid enough to hold a person. We reinforced the MDF plate and glued an substructure on it, then started painting the enclosure in black.
+
+<img src="docs/2023-05-24_baseplate.jpg" width="49%"> <img src="docs/2023-05-25_paint.jpg" width="49%">
 
 ### 2023/05/23 Adjusted mixing parameters
 
