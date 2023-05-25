@@ -2,6 +2,25 @@
 
 Driving armchair on the FRC 2020 drivebase for the art show "RESET" on May 25th, 2023.
 
+### 2023/05/25 Excited visitors and users
+
+This project was a huge success. Many people wanted to take a ride on the chair, from young to old. And they enjoyed it!
+
+<img src="docs/2023-05-25_jack.jpg" width="49%"> <img src="docs/2023-05-25_nomer.jpg" width="49%">
+
+So much that the two CIM motors actually overheated 🥵 and reduced their power. We had to make a break to let them cool a little:
+
+![base and chair separated](docs/2025-05-25_separated.jpg)
+
+## Building timeline
+
+### 2023/05/25 Finished "black box" and successful mount
+
+The final paint was put on the robot in the morning, and a few minutes into the art party the armchair was mounted on the base and driven out the office - to much amusement of all the bystanders, who took pictures and videos.
+
+<img src="docs/2023-05-25_black-box.jpg" width="49%"> <img src="docs/2023-05-25_complete.jpg" width="49%">
+
+
 ### 2023/05/23 Adjusted mixing parameters
 
 <img src="docs/2023-05-23_controller.jpg" align="right" width="40%">
