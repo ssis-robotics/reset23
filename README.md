@@ -1,5 +1,8 @@
 # Driving armchair for RESET 2023
 
+![GitHub License](https://img.shields.io/github/license/ssis-robotics/reset23)
+![GitHub Release](https://img.shields.io/github/v/release/ssis-robotics/reset23)
+
 Driving armchair on the FRC 2020 drivebase for the art show "RESET" on May 25th, 2023.
 
 ### 2023/05/25 Excited visitors and users
